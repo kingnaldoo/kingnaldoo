@@ -1,6 +1,5 @@
-<div>
-    <h1>Hi, &ltdevs/&gt <img src="https://i.pinimg.com/originals/6f/f4/f9/6ff4f9a2f1ae4c464021d733ef1bc51a.gif" height="40px"></h1>
-</div>
+<h1>Hi, &ltdevs/&gt <img src="https://i.pinimg.com/originals/6f/f4/f9/6ff4f9a2f1ae4c464021d733ef1bc51a.gif" height="40px"></h1>
+
 
 <img src="https://i.pinimg.com/originals/75/7a/4e/757a4ed3d9e6fdf7dcbbad972bd2e72c.gif" align="right" height="200">
 
