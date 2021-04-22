@@ -26,6 +26,7 @@
     <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" height="40">
     <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40">
     <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" height="40">
+    <img src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" height="40">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="40">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="40">
