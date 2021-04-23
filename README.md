@@ -18,8 +18,8 @@
 </ul><br>
 <h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo" height="150vw">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact" height="150vw">
+    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo" height="190vw">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact" height="190vw">
 </div><br>
 
 <div id="techs" align="center">
