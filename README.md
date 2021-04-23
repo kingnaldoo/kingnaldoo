@@ -18,8 +18,9 @@
 </ul><br>
 <h1>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact" height="200">
+</div><br>
 
 <div id="techs" align="center">
     <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" height="40" >
