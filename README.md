@@ -30,6 +30,7 @@
     <img src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" height="40">
     <img src="https://andrewsmithdeveloper.com/img/sass-new.4c1dd90f.png" height="40">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/knex-1.svg" height="40">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="40">
     <img src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" height="40">
