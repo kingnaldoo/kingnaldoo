@@ -35,10 +35,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/knex-1.svg" height="40">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="40">
-    <img src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" height="40">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" height="40">
     <img src="https://processing.org/img/processing3-logo.png" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.pnggo.png" height="40">
     <img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" height="40">
 </div></h1><br>
