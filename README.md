@@ -35,6 +35,5 @@
     <img src="https://cdn.worldvectorlogo.com/logos/knex-1.svg" height="40">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="40">
-    <img src="https://processing.org/img/processing3-logo.png" height="40">
     <img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" height="40">
 </div></h1><br>
