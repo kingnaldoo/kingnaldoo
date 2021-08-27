@@ -20,8 +20,8 @@
     
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="250">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&theme=radical&layout=compact)" height="250">
+    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact&theme=radical&show_icons=true)" height="180">
 </div><br>
 
 <div id="techs" align="center">
