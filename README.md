@@ -1,7 +1,7 @@
 <h1>Hi, &ltdevs/&gt <img src="https://i.pinimg.com/originals/6f/f4/f9/6ff4f9a2f1ae4c464021d733ef1bc51a.gif" height="40px"></h1>
 
 
-<img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" align="right" height="250">
+<img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" align="right" height="220">
 
 <p text-size="15">I'm a Systems and Digital Media Student👨🏻‍🎓, i have good skills in design🎨, communication📢, leadership🤹🏻‍♂️ and technology💻.</p>
 
