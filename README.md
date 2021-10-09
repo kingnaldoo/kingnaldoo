@@ -1,18 +1,18 @@
 <h1>Reinaldo da Silva</h1>
 
+<img src="https://pa1.narvii.com/6579/7887d84db7c0b15788dde3e4aacfa0466eddf772_hq.gif" align="right" height="200"/>
 <a href="https://www.linkedin.com/in/reinaldo-da-silva/"><img src="https://img.shields.io/badge/Reinaldo%20da%20Silva-%230A66C2?logo=Linkedin&style=flat-square" /></a>
 <a href="reinaldosn2016@gmail.com"><img src="https://img.shields.io/badge/reinaldosn2016@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
-<ul align="left">
-    <img src="https://pa1.narvii.com/6579/7887d84db7c0b15788dde3e4aacfa0466eddf772_hq.gif" align="right" height="220"/>
+<ul align="left"><br>
     <li><b>Projetist</b> at Container Digital Jr 👨🏻‍💻</li><br>
     <li><b>Digital Systems and Media Student</b> at UFC 🎓</li>
-</ul><br><br><br><br>
-
-<h2><br>
+</ul>
+<br><br><br>
+<h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="160">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact&theme=radical&show_icons=true)" height="160">
+    <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact&theme=radical&show_icons=true)" height="180">
 </div><br>
 <div id="techs" align="center">
     <img src="https://img.shields.io/badge/HTML%205-%23E34F26?logo=HTML5&style=for-the-badge&logoColor=white">
