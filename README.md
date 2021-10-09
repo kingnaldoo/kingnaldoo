@@ -1,39 +1,31 @@
-<h1>Hi, &ltdevs/&gt <img src="https://i.pinimg.com/originals/6f/f4/f9/6ff4f9a2f1ae4c464021d733ef1bc51a.gif" height="40px"></h1>
+<h1>Reinaldo da Silva</h1>
 
+<a href="https://www.linkedin.com/in/reinaldo-da-silva/"><img src="https://img.shields.io/badge/Reinaldo%20da%20Silva-%230A66C2?logo=Linkedin&style=flat-square" /></a>
+<a href="reinaldosn2016@gmail.com"><img src="https://img.shields.io/badge/reinaldosn2016@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
-<img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" align="right" height="220">
+<ul align="left">
+    <img src="https://pa1.narvii.com/6579/7887d84db7c0b15788dde3e4aacfa0466eddf772_hq.gif" align="right" height="220"/>
+    <li><b>Projetist</b> at Container Digital Jr 👨🏻‍💻</li><br>
+    <li><b>Digital Systems and Media Student</b> at UFC 🎓</li>
+</ul><br><br><br><br>
 
-<p text-size="15">I'm a Systems and Digital Media Student👨🏻‍🎓, i have good skills in design🎨, communication📢, leadership🤹🏻‍♂️ and technology💻.</p>
-
-<ul>
-    <li>
-        <p>👨🏻‍💻 || Currenctly, i'm working like projetist at <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a></p>
-    </li>
-    <li>
-        <p>🏹 || My objetive is to be a Full Stack Developer🔋.</p>
-    </li>
-    <li>
-        <p>💘 || My hobbies are watch series🎞, animes🐱‍👤, play LOL🧙🏻‍♂️, listen music🎶, cook🍳 and practice running🏃🏻‍♂️.</p>
-    </li>
-</ul><br>
-<h1>
-    
-
+<h2><br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingnaldoo&layout=compact&theme=radical&show_icons=true)" height="160">
 </div><br>
-
 <div id="techs" align="center">
-    <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" height="40" >
-    <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" height="40">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40">
-    <img src="https://appmasters.io/static/typescript-logo-26cc95f255ccb936d154b43614f61602.png" height="40">
-    <img src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" height="40">
-    <img src="https://andrewsmithdeveloper.com/img/sass-new.4c1dd90f.png" height="40">
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="40">
-    <img src="https://cdn.worldvectorlogo.com/logos/knex-1.svg" height="40">
-    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40">
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" height="40">
-    <img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" height="40">
-</div></h1><br>
+    <img src="https://img.shields.io/badge/HTML%205-%23E34F26?logo=HTML5&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS%203-%231572B6?logo=CSS3&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
+    <img src="https://img.shields.io/badge/VueJS-%234FC08D?logo=Vue.js&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Sass-%23CC6699?logo=Sass&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=Ubuntu&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&style=for-the-badge&logoColor=white">
+</div>
+</h2><br>
