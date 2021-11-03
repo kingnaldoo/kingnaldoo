@@ -6,9 +6,10 @@
 
 <ul align="left"><br>
     <li><b>Projetist</b> at Container Digital Jr 👨🏻‍💻</li><br>
-    <li><b>Digital Systems and Media Student</b> at UFC 🎓</li>
+    <li><b>Digital Systems and Media Student</b> at UFC 🎓</li><br>
+    <li><b>Full Stack Mobile Developer</b> at Insight Lab 🎓</li>
 </ul>
-<br><br><br>
+<br><br>
 <h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kingnaldoo&theme=radical" height="170">
