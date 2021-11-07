@@ -21,13 +21,11 @@
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
     <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
+    <img src="https://img.shields.io/badge/React Native-%2361DAFB?logo=React&style=for-the-badge&logoColor=black">
     <img src="https://img.shields.io/badge/NextJS-%23000000?logo=Next.js&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/VueJS-%234FC08D?logo=Vue.js&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-%23CC6699?logo=Sass&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/NodeJS-%23339933?logo=Node.js&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-%23339933?logo=MongoDB&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=Ubuntu&style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&style=for-the-badge&logoColor=black">
     <img src="https://img.shields.io/badge/Vscode-%23007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Insomnia-%235849BE?logo=Insomnia&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&style=for-the-badge&logoColor=white">
