@@ -5,8 +5,8 @@
 <a href="reinaldosn2016@gmail.com"><img src="https://img.shields.io/badge/reinaldosn2016@gmail.com-%23EA4335?logo=Gmail&style=flat-square&logoColor=white" /></a>
 
 <ul align="left"><br>
-    <li><b>Full Stack Mobile Developer</b> at Insight Lab👾</li><br>
-    <li><b>Projetist</b> at Container Digital Jr 👨🏻‍💻</li><br>
+    <li><b>Mobile Developer Jr.</b> at Insight Lab👾</li><br>
+    <li><b>Director of People and Management</b> at Container Digital Jr 👨🏻‍💻</li><br>
     <li><b>Digital Systems and Media Student</b> at UFC 🎓</li>
 </ul>
 <br><br>
